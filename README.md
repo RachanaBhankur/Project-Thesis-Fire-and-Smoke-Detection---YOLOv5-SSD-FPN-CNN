@@ -6,3 +6,4 @@ The project works on Fire and Smoke Dataset and validating YOLOv5, SSD-FPN and F
 
 
 
+![image](https://user-images.githubusercontent.com/93966333/208479212-17ccbde2-3451-4bba-b67e-c5046d4dfa0c.png)
